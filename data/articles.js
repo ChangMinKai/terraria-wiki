@@ -299,5 +299,107 @@ window.ARTICLES = [
       }
     ],
     "updated": "2026-11-16"
+   },
+  {
+    "id": "eater-of-worlds",
+    "title": "世界吞噬者",
+    "english": "Eater of Worlds",
+    "category": "bosses",
+    "stage": "困難模式前",
+    "summary": "腐化之地的巨型蠕蟲 Boss。",
+    "tags": ["腐化", "暗影珠", "boss"],
+    "sections": [
+      {
+        "heading": "召喚方式",
+        "body": "在腐化之地破壞第三顆暗影珠，或使用蠕蟲誘餌。"
+      },
+      {
+        "heading": "戰前準備",
+        "body": "準備具有穿透能力的武器、回血藥水及戰鬥平台。"
+      },
+      {
+        "heading": "戰鬥策略",
+        "body": "利用穿透攻擊同時傷害多個身體節段，注意分裂後的蠕蟲。"
+      },
+      {
+        "heading": "掉落物",
+        "body": "魔礦與暗影鱗片，可用於製作裝備。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Official Terraria Wiki",
+        "url": "https://terraria.wiki.gg/wiki/Eater_of_Worlds"
+      }
+    ],
+    "updated": "2026-11-16"
+  },
+  {
+    "id": "brain-of-cthulhu",
+    "title": "克蘇魯之腦",
+    "english": "Brain of Cthulhu",
+    "category": "bosses",
+    "stage": "困難模式前",
+    "summary": "猩紅之地具有兩個戰鬥階段的 Boss。",
+    "tags": ["猩紅", "心臟", "boss"],
+    "sections": [
+      {
+        "heading": "召喚方式",
+        "body": "在猩紅之地破壞第三顆猩紅之心，或使用血腥脊椎。"
+      },
+      {
+        "heading": "戰前準備",
+        "body": "準備戰鬥平台、範圍攻擊武器及移動配件。"
+      },
+      {
+        "heading": "戰鬥策略",
+        "body": "第一階段先清除周圍的小怪，第二階段注意傳送與幻影。"
+      },
+      {
+        "heading": "掉落物",
+        "body": "猩紅礦與組織樣本，專家模式可取得混亂之腦。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Official Terraria Wiki",
+        "url": "https://terraria.wiki.gg/wiki/Brain_of_Cthulhu"
+      }
+    ],
+    "updated": "2026-11-16"
+  },
+  {
+    "id": "wall-of-flesh",
+    "title": "血肉牆",
+    "english": "Wall of Flesh",
+    "category": "bosses",
+    "stage": "困難模式前",
+    "summary": "擊敗後即可進入困難模式的重要 Boss。",
+    "tags": ["地獄", "困難模式", "boss"],
+    "sections": [
+      {
+        "heading": "召喚方式",
+        "body": "向導存活時，在地獄將向導巫毒娃娃投入熔岩。"
+      },
+      {
+        "heading": "戰前準備",
+        "body": "在地獄建造足夠長的跑道，準備遠程武器與增益藥水。"
+      },
+      {
+        "heading": "戰鬥策略",
+        "body": "沿著跑道持續移動並攻擊眼睛或嘴巴，注意低血量時的移動加速。"
+      },
+      {
+        "heading": "掉落物",
+        "body": "神錘、職業徽章及武器。擊敗後世界將進入困難模式。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Official Terraria Wiki",
+        "url": "https://terraria.wiki.gg/wiki/Wall_of_Flesh"
+      }
+    ],
+    "updated": "2026-11-16"
   }
 ];
