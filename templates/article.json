@@ -1,0 +1,37 @@
+{
+  "id": "king-slime",
+  "title": "史萊姆王",
+  "english": "King Slime",
+  "category": "bosses",
+  "stage": "困難模式前",
+  "summary": "第二篇 Boss 範例，用於驗證資料驅動擴充。",
+  "tags": [
+    "史萊姆",
+    "boss"
+  ],
+  "sections": [
+    {
+      "heading": "召喚方式",
+      "body": "使用史萊姆王冠，或在符合條件的史萊姆雨事件中出現。"
+    },
+    {
+      "heading": "戰前準備",
+      "body": "搭建平台，準備移動配件與回血物品。"
+    },
+    {
+      "heading": "戰鬥策略",
+      "body": "留意跳躍落點與傳送，拉開距離並清理小史萊姆。"
+    },
+    {
+      "heading": "掉落物",
+      "body": "可能取得忍者裝備、史萊姆坐騎等物品；實際掉落依難度及機率而異。"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official Terraria Wiki",
+      "url": "https://terraria.wiki.gg/wiki/Guide%3AKing_Slime_strategies"
+    }
+  ],
+  "updated": "2026-11-15"
+}
