@@ -173,5 +173,131 @@ window.ARTICLES = [
       }
     ],
     "updated": "2026-11-15"
+  },
+  {
+    "id": "eater-of-worlds",
+    "title": "世界吞噬者",
+    "english": "Eater of Worlds",
+    "category": "bosses",
+    "stage": "困難模式前",
+    "summary": "腐化之地的多節 Boss，適合使用穿透攻擊。",
+    "tags": [
+      "腐化",
+      "暗影珠",
+      "boss"
+    ],
+    "sections": [
+      {
+        "heading": "召喚方式",
+        "body": "在腐化之地破壞第三顆暗影珠，或使用蠕蟲誘餌（Worm Food）。"
+      },
+      {
+        "heading": "戰前準備",
+        "body": "在腐化之地搭建平台，準備回血藥水、穿透型武器及移動配件。"
+      },
+      {
+        "heading": "戰鬥策略",
+        "body": "利用穿透攻擊同時傷害多個體節；分裂後仍須清除所有剩餘體節。避免離開腐化之地。"
+      },
+      {
+        "heading": "掉落物",
+        "body": "魔礦與暗影鱗片，可用於製作進階裝備。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Official Terraria Wiki — Boss guide",
+        "url": "https://terraria.wiki.gg/wiki/Guide%3AEater_of_Worlds_strategies"
+      },
+      {
+        "label": "Official Terraria Wiki — Bosses",
+        "url": "https://terraria.wiki.gg/wiki/Bosses"
+      }
+    ],
+    "updated": "2026-11-16"
+  },
+  {
+    "id": "brain-of-cthulhu",
+    "title": "克蘇魯之腦",
+    "english": "Brain of Cthulhu",
+    "category": "bosses",
+    "stage": "困難模式前",
+    "summary": "猩紅之地的雙階段 Boss，需先清除小怪。",
+    "tags": [
+      "猩紅",
+      "心臟",
+      "boss"
+    ],
+    "sections": [
+      {
+        "heading": "召喚方式",
+        "body": "在猩紅之地破壞第三顆猩紅之心，或使用血腥脊椎（Bloody Spine）。"
+      },
+      {
+        "heading": "戰前準備",
+        "body": "清出寬敞空間並搭建平台，準備穿透武器及具有擊退效果的武器。"
+      },
+      {
+        "heading": "戰鬥策略",
+        "body": "第一階段先消滅所有 Creeper 小怪；第二階段留意瞬移並利用擊退保持距離。專家模式須辨認幻影。"
+      },
+      {
+        "heading": "掉落物",
+        "body": "猩紅礦及組織樣本，可用於製作進階裝備。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Official Terraria Wiki — Boss guide",
+        "url": "https://terraria.wiki.gg/wiki/Guide%3ABrain_of_Cthulhu_strategies"
+      },
+      {
+        "label": "Official Terraria Wiki — Bosses",
+        "url": "https://terraria.wiki.gg/wiki/Bosses"
+      }
+    ],
+    "updated": "2026-11-16"
+  },
+  {
+    "id": "wall-of-flesh",
+    "title": "血肉牆",
+    "english": "Wall of Flesh",
+    "category": "bosses",
+    "stage": "困難模式前",
+    "summary": "擊敗後世界將永久進入困難模式。",
+    "tags": [
+      "地獄",
+      "困難模式",
+      "boss"
+    ],
+    "sections": [
+      {
+        "heading": "召喚方式",
+        "body": "向導存活時，將向導巫毒娃娃投入地獄的熔岩。"
+      },
+      {
+        "heading": "戰前準備",
+        "body": "在地獄鋪設長而平坦的通道，清除障礙，準備跑鞋、回血藥水及遠程武器。"
+      },
+      {
+        "heading": "戰鬥策略",
+        "body": "保持在血肉牆前方並持續移動，先清理阻擋攻擊的小怪，再集中攻擊眼睛；注意後期速度提升。"
+      },
+      {
+        "heading": "掉落物",
+        "body": "必定取得神錘（Pwnhammer），另有職業徽章及武器；專家模式符合條件可取得惡魔之心。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Official Terraria Wiki — Boss guide",
+        "url": "https://terraria.wiki.gg/wiki/Guide%3AWall_of_Flesh_strategies"
+      },
+      {
+        "label": "Official Terraria Wiki — Bosses",
+        "url": "https://terraria.wiki.gg/wiki/Bosses"
+      }
+    ],
+    "updated": "2026-11-16"
   }
 ];
